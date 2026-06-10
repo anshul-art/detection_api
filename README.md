@@ -248,7 +248,6 @@ This project was built as part of the structured training period covering:
 - REST API development with FastAPI
 - AWS fundamentals (EC2, AMI, GPU instances)
 
-**GitHub:** [github.com/Anshul3977](https://github.com/anshul-art)  
 **Docker Hub:** [hub.docker.com/r/anshul397/yolo-detection](https://hub.docker.com/r/anshul397/yolo-detection)
 
 ---
