@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights (downloaded at runtime)
+*.pt
+
+# Test images and results
+test.jpg
+result.jpg
+test_result.jpg
+
+# IDE
+.vscode/
+.idea/
